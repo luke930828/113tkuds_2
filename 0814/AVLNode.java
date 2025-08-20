@@ -22,3 +22,4 @@ public class AVLNode {
         this.height = Math.max(leftHeight, rightHeight) + 1;
     }
 }
+
